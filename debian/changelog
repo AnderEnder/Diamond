@@ -2,3 +2,5 @@ diamond (4.0.476) UNRELEASED; urgency=medium
 
   [ Andrii Radyk ]
   * Initial debian build
+
+ -- Andrii Radyk <ander.ender@gmail.com>  Wed, 23 Nov 2016 16:45:53 +0000

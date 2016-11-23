@@ -1,0 +1,3 @@
+src/collectors/* usr/share/diamond/collectors
+docs/* usr/share/doc/python-diamond
+conf/*.conf.* etc/diamond

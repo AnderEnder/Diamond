@@ -1,0 +1,5 @@
+usr/share/diamond/collectors
+etc/diamond
+etc/diamond/collectors
+etc/diamond/handlers
+var/log/diamond

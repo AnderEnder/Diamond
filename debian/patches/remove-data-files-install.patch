@@ -1,0 +1,13 @@
+Removing installation of datafiles, which should be installed from outside
+Index: diamond/setup.py
+===================================================================
+--- a/diamond/setup.py	2016-11-23 16:08:27.282309218 +0000
++++ b/diamond/setup.py	2016-11-23 16:09:09.529250797 +0000
+@@ -142,7 +142,6 @@
+     package_dir={'': 'src'},
+     packages=['diamond', 'diamond.handler', 'diamond.utils'],
+     scripts=['bin/diamond', 'bin/diamond-setup'],
+-    data_files=data_files,
+     install_requires=install_requires,
+     ** setup_kwargs
+ )
